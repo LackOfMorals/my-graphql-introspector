@@ -8,6 +8,7 @@ Clone repo
 git clone
 ```
 
+Install
 ```Text
 npm install
 ```
