@@ -5,11 +5,12 @@ This is amodifed fork of Neo4j introspector that uses an Alpha release of v7 Gra
 Clone repo
 
 ```Text
-git clone
+git clone https://github.com/LackOfMorals/my-graphql-introspector.git
 ```
 
 Install
 ```Text
+cd my-graphql-introspector
 npm install
 ```
 
